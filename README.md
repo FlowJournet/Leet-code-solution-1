@@ -4,6 +4,7 @@
 ## Array
 |  |
 | ------- |
+| [0066-plus-one](https://github.com/FlowJournet/Leet-code-solution-1/tree/master/0066-plus-one) |
 | [0198-house-robber](https://github.com/FlowJournet/Leet-code-solution-1/tree/master/0198-house-robber) |
 | [0268-missing-number](https://github.com/FlowJournet/Leet-code-solution-1/tree/master/0268-missing-number) |
 | [0283-move-zeroes](https://github.com/FlowJournet/Leet-code-solution-1/tree/master/0283-move-zeroes) |
@@ -16,6 +17,7 @@
 ## Math
 |  |
 | ------- |
+| [0066-plus-one](https://github.com/FlowJournet/Leet-code-solution-1/tree/master/0066-plus-one) |
 | [0231-power-of-two](https://github.com/FlowJournet/Leet-code-solution-1/tree/master/0231-power-of-two) |
 | [0268-missing-number](https://github.com/FlowJournet/Leet-code-solution-1/tree/master/0268-missing-number) |
 | [0405-convert-a-number-to-hexadecimal](https://github.com/FlowJournet/Leet-code-solution-1/tree/master/0405-convert-a-number-to-hexadecimal) |
