@@ -13,6 +13,7 @@
 | [0268-missing-number](https://github.com/FlowJournet/Leet-code-solution-1/tree/master/0268-missing-number) |
 | [0283-move-zeroes](https://github.com/FlowJournet/Leet-code-solution-1/tree/master/0283-move-zeroes) |
 | [0349-intersection-of-two-arrays](https://github.com/FlowJournet/Leet-code-solution-1/tree/master/0349-intersection-of-two-arrays) |
+| [0575-distribute-candies](https://github.com/FlowJournet/Leet-code-solution-1/tree/master/0575-distribute-candies) |
 | [0945-minimum-increment-to-make-array-unique](https://github.com/FlowJournet/Leet-code-solution-1/tree/master/0945-minimum-increment-to-make-array-unique) |
 | [1295-find-numbers-with-even-number-of-digits](https://github.com/FlowJournet/Leet-code-solution-1/tree/master/1295-find-numbers-with-even-number-of-digits) |
 | [1480-running-sum-of-1d-array](https://github.com/FlowJournet/Leet-code-solution-1/tree/master/1480-running-sum-of-1d-array) |
@@ -44,6 +45,7 @@
 | [0202-happy-number](https://github.com/FlowJournet/Leet-code-solution-1/tree/master/0202-happy-number) |
 | [0268-missing-number](https://github.com/FlowJournet/Leet-code-solution-1/tree/master/0268-missing-number) |
 | [0349-intersection-of-two-arrays](https://github.com/FlowJournet/Leet-code-solution-1/tree/master/0349-intersection-of-two-arrays) |
+| [0575-distribute-candies](https://github.com/FlowJournet/Leet-code-solution-1/tree/master/0575-distribute-candies) |
 | [1189-maximum-number-of-balloons](https://github.com/FlowJournet/Leet-code-solution-1/tree/master/1189-maximum-number-of-balloons) |
 ## Binary Search
 |  |
