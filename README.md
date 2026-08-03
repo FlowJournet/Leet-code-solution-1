@@ -5,6 +5,7 @@
 |  |
 | ------- |
 | [0011-container-with-most-water](https://github.com/FlowJournet/Leet-code-solution-1/tree/master/0011-container-with-most-water) |
+| [0053-maximum-subarray](https://github.com/FlowJournet/Leet-code-solution-1/tree/master/0053-maximum-subarray) |
 | [0066-plus-one](https://github.com/FlowJournet/Leet-code-solution-1/tree/master/0066-plus-one) |
 | [0136-single-number](https://github.com/FlowJournet/Leet-code-solution-1/tree/master/0136-single-number) |
 | [0137-single-number-ii](https://github.com/FlowJournet/Leet-code-solution-1/tree/master/0137-single-number-ii) |
@@ -108,6 +109,7 @@
 ## Dynamic Programming
 |  |
 | ------- |
+| [0053-maximum-subarray](https://github.com/FlowJournet/Leet-code-solution-1/tree/master/0053-maximum-subarray) |
 | [0198-house-robber](https://github.com/FlowJournet/Leet-code-solution-1/tree/master/0198-house-robber) |
 | [0392-is-subsequence](https://github.com/FlowJournet/Leet-code-solution-1/tree/master/0392-is-subsequence) |
 | [0509-fibonacci-number](https://github.com/FlowJournet/Leet-code-solution-1/tree/master/0509-fibonacci-number) |
@@ -119,6 +121,7 @@
 ## Divide and Conquer
 |  |
 | ------- |
+| [0053-maximum-subarray](https://github.com/FlowJournet/Leet-code-solution-1/tree/master/0053-maximum-subarray) |
 | [0190-reverse-bits](https://github.com/FlowJournet/Leet-code-solution-1/tree/master/0190-reverse-bits) |
 | [0191-number-of-1-bits](https://github.com/FlowJournet/Leet-code-solution-1/tree/master/0191-number-of-1-bits) |
 ## Memoization
