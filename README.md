@@ -49,6 +49,7 @@
 | ------- |
 | [0202-happy-number](https://github.com/FlowJournet/Leet-code-solution-1/tree/master/0202-happy-number) |
 | [0268-missing-number](https://github.com/FlowJournet/Leet-code-solution-1/tree/master/0268-missing-number) |
+| [0290-word-pattern](https://github.com/FlowJournet/Leet-code-solution-1/tree/master/0290-word-pattern) |
 | [0349-intersection-of-two-arrays](https://github.com/FlowJournet/Leet-code-solution-1/tree/master/0349-intersection-of-two-arrays) |
 | [0575-distribute-candies](https://github.com/FlowJournet/Leet-code-solution-1/tree/master/0575-distribute-candies) |
 | [1189-maximum-number-of-balloons](https://github.com/FlowJournet/Leet-code-solution-1/tree/master/1189-maximum-number-of-balloons) |
@@ -92,6 +93,7 @@
 | ------- |
 | [0058-length-of-last-word](https://github.com/FlowJournet/Leet-code-solution-1/tree/master/0058-length-of-last-word) |
 | [0125-valid-palindrome](https://github.com/FlowJournet/Leet-code-solution-1/tree/master/0125-valid-palindrome) |
+| [0290-word-pattern](https://github.com/FlowJournet/Leet-code-solution-1/tree/master/0290-word-pattern) |
 | [0392-is-subsequence](https://github.com/FlowJournet/Leet-code-solution-1/tree/master/0392-is-subsequence) |
 | [0405-convert-a-number-to-hexadecimal](https://github.com/FlowJournet/Leet-code-solution-1/tree/master/0405-convert-a-number-to-hexadecimal) |
 | [0709-to-lower-case](https://github.com/FlowJournet/Leet-code-solution-1/tree/master/0709-to-lower-case) |
