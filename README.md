@@ -35,6 +35,7 @@
 | [0367-valid-perfect-square](https://github.com/FlowJournet/Leet-code-solution-1/tree/master/0367-valid-perfect-square) |
 | [0405-convert-a-number-to-hexadecimal](https://github.com/FlowJournet/Leet-code-solution-1/tree/master/0405-convert-a-number-to-hexadecimal) |
 | [0509-fibonacci-number](https://github.com/FlowJournet/Leet-code-solution-1/tree/master/0509-fibonacci-number) |
+| [1137-n-th-tribonacci-number](https://github.com/FlowJournet/Leet-code-solution-1/tree/master/1137-n-th-tribonacci-number) |
 | [1295-find-numbers-with-even-number-of-digits](https://github.com/FlowJournet/Leet-code-solution-1/tree/master/1295-find-numbers-with-even-number-of-digits) |
 | [1323-maximum-69-number](https://github.com/FlowJournet/Leet-code-solution-1/tree/master/1323-maximum-69-number) |
 | [3432-count-partitions-with-even-sum-difference](https://github.com/FlowJournet/Leet-code-solution-1/tree/master/3432-count-partitions-with-even-sum-difference) |
@@ -125,6 +126,7 @@
 | [0198-house-robber](https://github.com/FlowJournet/Leet-code-solution-1/tree/master/0198-house-robber) |
 | [0392-is-subsequence](https://github.com/FlowJournet/Leet-code-solution-1/tree/master/0392-is-subsequence) |
 | [0509-fibonacci-number](https://github.com/FlowJournet/Leet-code-solution-1/tree/master/0509-fibonacci-number) |
+| [1137-n-th-tribonacci-number](https://github.com/FlowJournet/Leet-code-solution-1/tree/master/1137-n-th-tribonacci-number) |
 ## Recursion
 |  |
 | ------- |
@@ -140,6 +142,7 @@
 |  |
 | ------- |
 | [0509-fibonacci-number](https://github.com/FlowJournet/Leet-code-solution-1/tree/master/0509-fibonacci-number) |
+| [1137-n-th-tribonacci-number](https://github.com/FlowJournet/Leet-code-solution-1/tree/master/1137-n-th-tribonacci-number) |
 ## Simulation
 |  |
 | ------- |
