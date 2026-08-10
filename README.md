@@ -20,6 +20,7 @@
 | [0806-number-of-lines-to-write-string](https://github.com/FlowJournet/Leet-code-solution-1/tree/master/0806-number-of-lines-to-write-string) |
 | [0905-sort-array-by-parity](https://github.com/FlowJournet/Leet-code-solution-1/tree/master/0905-sort-array-by-parity) |
 | [0945-minimum-increment-to-make-array-unique](https://github.com/FlowJournet/Leet-code-solution-1/tree/master/0945-minimum-increment-to-make-array-unique) |
+| [1122-relative-sort-array](https://github.com/FlowJournet/Leet-code-solution-1/tree/master/1122-relative-sort-array) |
 | [1295-find-numbers-with-even-number-of-digits](https://github.com/FlowJournet/Leet-code-solution-1/tree/master/1295-find-numbers-with-even-number-of-digits) |
 | [1480-running-sum-of-1d-array](https://github.com/FlowJournet/Leet-code-solution-1/tree/master/1480-running-sum-of-1d-array) |
 | [2574-left-and-right-sum-differences](https://github.com/FlowJournet/Leet-code-solution-1/tree/master/2574-left-and-right-sum-differences) |
@@ -58,6 +59,7 @@
 | [0290-word-pattern](https://github.com/FlowJournet/Leet-code-solution-1/tree/master/0290-word-pattern) |
 | [0349-intersection-of-two-arrays](https://github.com/FlowJournet/Leet-code-solution-1/tree/master/0349-intersection-of-two-arrays) |
 | [0575-distribute-candies](https://github.com/FlowJournet/Leet-code-solution-1/tree/master/0575-distribute-candies) |
+| [1122-relative-sort-array](https://github.com/FlowJournet/Leet-code-solution-1/tree/master/1122-relative-sort-array) |
 | [1189-maximum-number-of-balloons](https://github.com/FlowJournet/Leet-code-solution-1/tree/master/1189-maximum-number-of-balloons) |
 ## Binary Search
 |  |
@@ -85,6 +87,7 @@
 | [0349-intersection-of-two-arrays](https://github.com/FlowJournet/Leet-code-solution-1/tree/master/0349-intersection-of-two-arrays) |
 | [0905-sort-array-by-parity](https://github.com/FlowJournet/Leet-code-solution-1/tree/master/0905-sort-array-by-parity) |
 | [0945-minimum-increment-to-make-array-unique](https://github.com/FlowJournet/Leet-code-solution-1/tree/master/0945-minimum-increment-to-make-array-unique) |
+| [1122-relative-sort-array](https://github.com/FlowJournet/Leet-code-solution-1/tree/master/1122-relative-sort-array) |
 ## Two Pointers
 |  |
 | ------- |
@@ -164,4 +167,16 @@
 |  |
 | ------- |
 | [0141-linked-list-cycle](https://github.com/FlowJournet/Leet-code-solution-1/tree/master/0141-linked-list-cycle) |
+## Counting Sort
+|  |
+| ------- |
+| [1122-relative-sort-array](https://github.com/FlowJournet/Leet-code-solution-1/tree/master/1122-relative-sort-array) |
+## Quicksort
+|  |
+| ------- |
+| [1122-relative-sort-array](https://github.com/FlowJournet/Leet-code-solution-1/tree/master/1122-relative-sort-array) |
+## Bubble Sort
+|  |
+| ------- |
+| [1122-relative-sort-array](https://github.com/FlowJournet/Leet-code-solution-1/tree/master/1122-relative-sort-array) |
 <!---LeetCode Topics End-->
