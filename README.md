@@ -19,6 +19,7 @@
 | [0566-reshape-the-matrix](https://github.com/FlowJournet/Leet-code-solution-1/tree/master/0566-reshape-the-matrix) |
 | [0575-distribute-candies](https://github.com/FlowJournet/Leet-code-solution-1/tree/master/0575-distribute-candies) |
 | [0806-number-of-lines-to-write-string](https://github.com/FlowJournet/Leet-code-solution-1/tree/master/0806-number-of-lines-to-write-string) |
+| [0867-transpose-matrix](https://github.com/FlowJournet/Leet-code-solution-1/tree/master/0867-transpose-matrix) |
 | [0905-sort-array-by-parity](https://github.com/FlowJournet/Leet-code-solution-1/tree/master/0905-sort-array-by-parity) |
 | [0945-minimum-increment-to-make-array-unique](https://github.com/FlowJournet/Leet-code-solution-1/tree/master/0945-minimum-increment-to-make-array-unique) |
 | [1122-relative-sort-array](https://github.com/FlowJournet/Leet-code-solution-1/tree/master/1122-relative-sort-array) |
@@ -160,6 +161,7 @@
 | ------- |
 | [0258-add-digits](https://github.com/FlowJournet/Leet-code-solution-1/tree/master/0258-add-digits) |
 | [0566-reshape-the-matrix](https://github.com/FlowJournet/Leet-code-solution-1/tree/master/0566-reshape-the-matrix) |
+| [0867-transpose-matrix](https://github.com/FlowJournet/Leet-code-solution-1/tree/master/0867-transpose-matrix) |
 ## Number Theory
 |  |
 | ------- |
@@ -188,4 +190,5 @@
 |  |
 | ------- |
 | [0566-reshape-the-matrix](https://github.com/FlowJournet/Leet-code-solution-1/tree/master/0566-reshape-the-matrix) |
+| [0867-transpose-matrix](https://github.com/FlowJournet/Leet-code-solution-1/tree/master/0867-transpose-matrix) |
 <!---LeetCode Topics End-->
