@@ -45,6 +45,7 @@
 | [0263-ugly-number](https://github.com/FlowJournet/Leet-code-solution-1/tree/master/0263-ugly-number) |
 | [0268-missing-number](https://github.com/FlowJournet/Leet-code-solution-1/tree/master/0268-missing-number) |
 | [0292-nim-game](https://github.com/FlowJournet/Leet-code-solution-1/tree/master/0292-nim-game) |
+| [0342-power-of-four](https://github.com/FlowJournet/Leet-code-solution-1/tree/master/0342-power-of-four) |
 | [0367-valid-perfect-square](https://github.com/FlowJournet/Leet-code-solution-1/tree/master/0367-valid-perfect-square) |
 | [0405-convert-a-number-to-hexadecimal](https://github.com/FlowJournet/Leet-code-solution-1/tree/master/0405-convert-a-number-to-hexadecimal) |
 | [0492-construct-the-rectangle](https://github.com/FlowJournet/Leet-code-solution-1/tree/master/0492-construct-the-rectangle) |
@@ -93,6 +94,7 @@
 | [0231-power-of-two](https://github.com/FlowJournet/Leet-code-solution-1/tree/master/0231-power-of-two) |
 | [0260-single-number-iii](https://github.com/FlowJournet/Leet-code-solution-1/tree/master/0260-single-number-iii) |
 | [0268-missing-number](https://github.com/FlowJournet/Leet-code-solution-1/tree/master/0268-missing-number) |
+| [0342-power-of-four](https://github.com/FlowJournet/Leet-code-solution-1/tree/master/0342-power-of-four) |
 | [0405-convert-a-number-to-hexadecimal](https://github.com/FlowJournet/Leet-code-solution-1/tree/master/0405-convert-a-number-to-hexadecimal) |
 | [1009-complement-of-base-10-integer](https://github.com/FlowJournet/Leet-code-solution-1/tree/master/1009-complement-of-base-10-integer) |
 | [1342-number-of-steps-to-reduce-a-number-to-zero](https://github.com/FlowJournet/Leet-code-solution-1/tree/master/1342-number-of-steps-to-reduce-a-number-to-zero) |
@@ -161,6 +163,7 @@
 | ------- |
 | [0203-remove-linked-list-elements](https://github.com/FlowJournet/Leet-code-solution-1/tree/master/0203-remove-linked-list-elements) |
 | [0231-power-of-two](https://github.com/FlowJournet/Leet-code-solution-1/tree/master/0231-power-of-two) |
+| [0342-power-of-four](https://github.com/FlowJournet/Leet-code-solution-1/tree/master/0342-power-of-four) |
 | [0509-fibonacci-number](https://github.com/FlowJournet/Leet-code-solution-1/tree/master/0509-fibonacci-number) |
 ## Divide and Conquer
 |  |
