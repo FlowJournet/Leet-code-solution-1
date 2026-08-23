@@ -16,6 +16,7 @@
 | [0268-missing-number](https://github.com/FlowJournet/Leet-code-solution-1/tree/master/0268-missing-number) |
 | [0283-move-zeroes](https://github.com/FlowJournet/Leet-code-solution-1/tree/master/0283-move-zeroes) |
 | [0349-intersection-of-two-arrays](https://github.com/FlowJournet/Leet-code-solution-1/tree/master/0349-intersection-of-two-arrays) |
+| [0566-reshape-the-matrix](https://github.com/FlowJournet/Leet-code-solution-1/tree/master/0566-reshape-the-matrix) |
 | [0575-distribute-candies](https://github.com/FlowJournet/Leet-code-solution-1/tree/master/0575-distribute-candies) |
 | [0806-number-of-lines-to-write-string](https://github.com/FlowJournet/Leet-code-solution-1/tree/master/0806-number-of-lines-to-write-string) |
 | [0905-sort-array-by-parity](https://github.com/FlowJournet/Leet-code-solution-1/tree/master/0905-sort-array-by-parity) |
@@ -158,6 +159,7 @@
 |  |
 | ------- |
 | [0258-add-digits](https://github.com/FlowJournet/Leet-code-solution-1/tree/master/0258-add-digits) |
+| [0566-reshape-the-matrix](https://github.com/FlowJournet/Leet-code-solution-1/tree/master/0566-reshape-the-matrix) |
 ## Number Theory
 |  |
 | ------- |
@@ -182,4 +184,8 @@
 |  |
 | ------- |
 | [1122-relative-sort-array](https://github.com/FlowJournet/Leet-code-solution-1/tree/master/1122-relative-sort-array) |
+## Matrix
+|  |
+| ------- |
+| [0566-reshape-the-matrix](https://github.com/FlowJournet/Leet-code-solution-1/tree/master/0566-reshape-the-matrix) |
 <!---LeetCode Topics End-->
