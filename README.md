@@ -12,6 +12,7 @@
 | [0121-best-time-to-buy-and-sell-stock](https://github.com/FlowJournet/Leet-code-solution-1/tree/master/0121-best-time-to-buy-and-sell-stock) |
 | [0136-single-number](https://github.com/FlowJournet/Leet-code-solution-1/tree/master/0136-single-number) |
 | [0137-single-number-ii](https://github.com/FlowJournet/Leet-code-solution-1/tree/master/0137-single-number-ii) |
+| [0152-maximum-product-subarray](https://github.com/FlowJournet/Leet-code-solution-1/tree/master/0152-maximum-product-subarray) |
 | [0198-house-robber](https://github.com/FlowJournet/Leet-code-solution-1/tree/master/0198-house-robber) |
 | [0228-summary-ranges](https://github.com/FlowJournet/Leet-code-solution-1/tree/master/0228-summary-ranges) |
 | [0260-single-number-iii](https://github.com/FlowJournet/Leet-code-solution-1/tree/master/0260-single-number-iii) |
@@ -146,6 +147,7 @@
 | [0053-maximum-subarray](https://github.com/FlowJournet/Leet-code-solution-1/tree/master/0053-maximum-subarray) |
 | [0062-unique-paths](https://github.com/FlowJournet/Leet-code-solution-1/tree/master/0062-unique-paths) |
 | [0121-best-time-to-buy-and-sell-stock](https://github.com/FlowJournet/Leet-code-solution-1/tree/master/0121-best-time-to-buy-and-sell-stock) |
+| [0152-maximum-product-subarray](https://github.com/FlowJournet/Leet-code-solution-1/tree/master/0152-maximum-product-subarray) |
 | [0198-house-robber](https://github.com/FlowJournet/Leet-code-solution-1/tree/master/0198-house-robber) |
 | [0392-is-subsequence](https://github.com/FlowJournet/Leet-code-solution-1/tree/master/0392-is-subsequence) |
 | [0509-fibonacci-number](https://github.com/FlowJournet/Leet-code-solution-1/tree/master/0509-fibonacci-number) |
