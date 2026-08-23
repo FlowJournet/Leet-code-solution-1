@@ -44,6 +44,7 @@
 | [0258-add-digits](https://github.com/FlowJournet/Leet-code-solution-1/tree/master/0258-add-digits) |
 | [0263-ugly-number](https://github.com/FlowJournet/Leet-code-solution-1/tree/master/0263-ugly-number) |
 | [0268-missing-number](https://github.com/FlowJournet/Leet-code-solution-1/tree/master/0268-missing-number) |
+| [0292-nim-game](https://github.com/FlowJournet/Leet-code-solution-1/tree/master/0292-nim-game) |
 | [0367-valid-perfect-square](https://github.com/FlowJournet/Leet-code-solution-1/tree/master/0367-valid-perfect-square) |
 | [0405-convert-a-number-to-hexadecimal](https://github.com/FlowJournet/Leet-code-solution-1/tree/master/0405-convert-a-number-to-hexadecimal) |
 | [0492-construct-the-rectangle](https://github.com/FlowJournet/Leet-code-solution-1/tree/master/0492-construct-the-rectangle) |
@@ -231,4 +232,24 @@
 |  |
 | ------- |
 | [0300-longest-increasing-subsequence](https://github.com/FlowJournet/Leet-code-solution-1/tree/master/0300-longest-increasing-subsequence) |
+## Brainteaser
+|  |
+| ------- |
+| [0292-nim-game](https://github.com/FlowJournet/Leet-code-solution-1/tree/master/0292-nim-game) |
+## Minimax
+|  |
+| ------- |
+| [0292-nim-game](https://github.com/FlowJournet/Leet-code-solution-1/tree/master/0292-nim-game) |
+## Game Theory
+|  |
+| ------- |
+| [0292-nim-game](https://github.com/FlowJournet/Leet-code-solution-1/tree/master/0292-nim-game) |
+## Nim Game
+|  |
+| ------- |
+| [0292-nim-game](https://github.com/FlowJournet/Leet-code-solution-1/tree/master/0292-nim-game) |
+## Impartial Game
+|  |
+| ------- |
+| [0292-nim-game](https://github.com/FlowJournet/Leet-code-solution-1/tree/master/0292-nim-game) |
 <!---LeetCode Topics End-->
