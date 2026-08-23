@@ -7,6 +7,7 @@
 | [0011-container-with-most-water](https://github.com/FlowJournet/Leet-code-solution-1/tree/master/0011-container-with-most-water) |
 | [0053-maximum-subarray](https://github.com/FlowJournet/Leet-code-solution-1/tree/master/0053-maximum-subarray) |
 | [0054-spiral-matrix](https://github.com/FlowJournet/Leet-code-solution-1/tree/master/0054-spiral-matrix) |
+| [0056-merge-intervals](https://github.com/FlowJournet/Leet-code-solution-1/tree/master/0056-merge-intervals) |
 | [0066-plus-one](https://github.com/FlowJournet/Leet-code-solution-1/tree/master/0066-plus-one) |
 | [0121-best-time-to-buy-and-sell-stock](https://github.com/FlowJournet/Leet-code-solution-1/tree/master/0121-best-time-to-buy-and-sell-stock) |
 | [0136-single-number](https://github.com/FlowJournet/Leet-code-solution-1/tree/master/0136-single-number) |
@@ -91,6 +92,7 @@
 ## Sorting
 |  |
 | ------- |
+| [0056-merge-intervals](https://github.com/FlowJournet/Leet-code-solution-1/tree/master/0056-merge-intervals) |
 | [0268-missing-number](https://github.com/FlowJournet/Leet-code-solution-1/tree/master/0268-missing-number) |
 | [0349-intersection-of-two-arrays](https://github.com/FlowJournet/Leet-code-solution-1/tree/master/0349-intersection-of-two-arrays) |
 | [0905-sort-array-by-parity](https://github.com/FlowJournet/Leet-code-solution-1/tree/master/0905-sort-array-by-parity) |
@@ -188,6 +190,7 @@
 ## Quicksort
 |  |
 | ------- |
+| [0056-merge-intervals](https://github.com/FlowJournet/Leet-code-solution-1/tree/master/0056-merge-intervals) |
 | [1122-relative-sort-array](https://github.com/FlowJournet/Leet-code-solution-1/tree/master/1122-relative-sort-array) |
 ## Bubble Sort
 |  |
