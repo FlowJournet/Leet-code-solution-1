@@ -50,6 +50,7 @@
 | [0405-convert-a-number-to-hexadecimal](https://github.com/FlowJournet/Leet-code-solution-1/tree/master/0405-convert-a-number-to-hexadecimal) |
 | [0492-construct-the-rectangle](https://github.com/FlowJournet/Leet-code-solution-1/tree/master/0492-construct-the-rectangle) |
 | [0509-fibonacci-number](https://github.com/FlowJournet/Leet-code-solution-1/tree/master/0509-fibonacci-number) |
+| [0728-self-dividing-numbers](https://github.com/FlowJournet/Leet-code-solution-1/tree/master/0728-self-dividing-numbers) |
 | [0812-largest-triangle-area](https://github.com/FlowJournet/Leet-code-solution-1/tree/master/0812-largest-triangle-area) |
 | [1137-n-th-tribonacci-number](https://github.com/FlowJournet/Leet-code-solution-1/tree/master/1137-n-th-tribonacci-number) |
 | [1281-subtract-the-product-and-sum-of-digits-of-an-integer](https://github.com/FlowJournet/Leet-code-solution-1/tree/master/1281-subtract-the-product-and-sum-of-digits-of-an-integer) |
