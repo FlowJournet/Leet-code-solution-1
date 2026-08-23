@@ -33,6 +33,7 @@
 ## Math
 |  |
 | ------- |
+| [0062-unique-paths](https://github.com/FlowJournet/Leet-code-solution-1/tree/master/0062-unique-paths) |
 | [0066-plus-one](https://github.com/FlowJournet/Leet-code-solution-1/tree/master/0066-plus-one) |
 | [0166-fraction-to-recurring-decimal](https://github.com/FlowJournet/Leet-code-solution-1/tree/master/0166-fraction-to-recurring-decimal) |
 | [0202-happy-number](https://github.com/FlowJournet/Leet-code-solution-1/tree/master/0202-happy-number) |
@@ -141,6 +142,7 @@
 |  |
 | ------- |
 | [0053-maximum-subarray](https://github.com/FlowJournet/Leet-code-solution-1/tree/master/0053-maximum-subarray) |
+| [0062-unique-paths](https://github.com/FlowJournet/Leet-code-solution-1/tree/master/0062-unique-paths) |
 | [0121-best-time-to-buy-and-sell-stock](https://github.com/FlowJournet/Leet-code-solution-1/tree/master/0121-best-time-to-buy-and-sell-stock) |
 | [0198-house-robber](https://github.com/FlowJournet/Leet-code-solution-1/tree/master/0198-house-robber) |
 | [0392-is-subsequence](https://github.com/FlowJournet/Leet-code-solution-1/tree/master/0392-is-subsequence) |
@@ -210,4 +212,8 @@
 |  |
 | ------- |
 | [0812-largest-triangle-area](https://github.com/FlowJournet/Leet-code-solution-1/tree/master/0812-largest-triangle-area) |
+## Combinatorics
+|  |
+| ------- |
+| [0062-unique-paths](https://github.com/FlowJournet/Leet-code-solution-1/tree/master/0062-unique-paths) |
 <!---LeetCode Topics End-->
