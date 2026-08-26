@@ -23,6 +23,7 @@
 | [0349-intersection-of-two-arrays](https://github.com/FlowJournet/Leet-code-solution-1/tree/master/0349-intersection-of-two-arrays) |
 | [0566-reshape-the-matrix](https://github.com/FlowJournet/Leet-code-solution-1/tree/master/0566-reshape-the-matrix) |
 | [0575-distribute-candies](https://github.com/FlowJournet/Leet-code-solution-1/tree/master/0575-distribute-candies) |
+| [0804-unique-morse-code-words](https://github.com/FlowJournet/Leet-code-solution-1/tree/master/0804-unique-morse-code-words) |
 | [0806-number-of-lines-to-write-string](https://github.com/FlowJournet/Leet-code-solution-1/tree/master/0806-number-of-lines-to-write-string) |
 | [0812-largest-triangle-area](https://github.com/FlowJournet/Leet-code-solution-1/tree/master/0812-largest-triangle-area) |
 | [0867-transpose-matrix](https://github.com/FlowJournet/Leet-code-solution-1/tree/master/0867-transpose-matrix) |
@@ -76,6 +77,7 @@
 | [0290-word-pattern](https://github.com/FlowJournet/Leet-code-solution-1/tree/master/0290-word-pattern) |
 | [0349-intersection-of-two-arrays](https://github.com/FlowJournet/Leet-code-solution-1/tree/master/0349-intersection-of-two-arrays) |
 | [0575-distribute-candies](https://github.com/FlowJournet/Leet-code-solution-1/tree/master/0575-distribute-candies) |
+| [0804-unique-morse-code-words](https://github.com/FlowJournet/Leet-code-solution-1/tree/master/0804-unique-morse-code-words) |
 | [1122-relative-sort-array](https://github.com/FlowJournet/Leet-code-solution-1/tree/master/1122-relative-sort-array) |
 | [1189-maximum-number-of-balloons](https://github.com/FlowJournet/Leet-code-solution-1/tree/master/1189-maximum-number-of-balloons) |
 ## Binary Search
@@ -138,6 +140,7 @@
 | [0639-decode-ways-ii](https://github.com/FlowJournet/Leet-code-solution-1/tree/master/0639-decode-ways-ii) |
 | [0680-valid-palindrome-ii](https://github.com/FlowJournet/Leet-code-solution-1/tree/master/0680-valid-palindrome-ii) |
 | [0709-to-lower-case](https://github.com/FlowJournet/Leet-code-solution-1/tree/master/0709-to-lower-case) |
+| [0804-unique-morse-code-words](https://github.com/FlowJournet/Leet-code-solution-1/tree/master/0804-unique-morse-code-words) |
 | [0806-number-of-lines-to-write-string](https://github.com/FlowJournet/Leet-code-solution-1/tree/master/0806-number-of-lines-to-write-string) |
 | [1108-defanging-an-ip-address](https://github.com/FlowJournet/Leet-code-solution-1/tree/master/1108-defanging-an-ip-address) |
 | [1189-maximum-number-of-balloons](https://github.com/FlowJournet/Leet-code-solution-1/tree/master/1189-maximum-number-of-balloons) |
