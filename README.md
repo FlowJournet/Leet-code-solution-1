@@ -13,6 +13,7 @@
 | [0136-single-number](https://github.com/FlowJournet/Leet-code-solution-1/tree/master/0136-single-number) |
 | [0137-single-number-ii](https://github.com/FlowJournet/Leet-code-solution-1/tree/master/0137-single-number-ii) |
 | [0152-maximum-product-subarray](https://github.com/FlowJournet/Leet-code-solution-1/tree/master/0152-maximum-product-subarray) |
+| [0153-find-minimum-in-rotated-sorted-array](https://github.com/FlowJournet/Leet-code-solution-1/tree/master/0153-find-minimum-in-rotated-sorted-array) |
 | [0198-house-robber](https://github.com/FlowJournet/Leet-code-solution-1/tree/master/0198-house-robber) |
 | [0228-summary-ranges](https://github.com/FlowJournet/Leet-code-solution-1/tree/master/0228-summary-ranges) |
 | [0260-single-number-iii](https://github.com/FlowJournet/Leet-code-solution-1/tree/master/0260-single-number-iii) |
@@ -80,6 +81,7 @@
 ## Binary Search
 |  |
 | ------- |
+| [0153-find-minimum-in-rotated-sorted-array](https://github.com/FlowJournet/Leet-code-solution-1/tree/master/0153-find-minimum-in-rotated-sorted-array) |
 | [0268-missing-number](https://github.com/FlowJournet/Leet-code-solution-1/tree/master/0268-missing-number) |
 | [0300-longest-increasing-subsequence](https://github.com/FlowJournet/Leet-code-solution-1/tree/master/0300-longest-increasing-subsequence) |
 | [0349-intersection-of-two-arrays](https://github.com/FlowJournet/Leet-code-solution-1/tree/master/0349-intersection-of-two-arrays) |
