@@ -98,6 +98,7 @@
 | [0260-single-number-iii](https://github.com/FlowJournet/Leet-code-solution-1/tree/master/0260-single-number-iii) |
 | [0268-missing-number](https://github.com/FlowJournet/Leet-code-solution-1/tree/master/0268-missing-number) |
 | [0342-power-of-four](https://github.com/FlowJournet/Leet-code-solution-1/tree/master/0342-power-of-four) |
+| [0401-binary-watch](https://github.com/FlowJournet/Leet-code-solution-1/tree/master/0401-binary-watch) |
 | [0405-convert-a-number-to-hexadecimal](https://github.com/FlowJournet/Leet-code-solution-1/tree/master/0405-convert-a-number-to-hexadecimal) |
 | [0693-binary-number-with-alternating-bits](https://github.com/FlowJournet/Leet-code-solution-1/tree/master/0693-binary-number-with-alternating-bits) |
 | [1009-complement-of-base-10-integer](https://github.com/FlowJournet/Leet-code-solution-1/tree/master/1009-complement-of-base-10-integer) |
@@ -238,6 +239,7 @@
 |  |
 | ------- |
 | [0089-gray-code](https://github.com/FlowJournet/Leet-code-solution-1/tree/master/0089-gray-code) |
+| [0401-binary-watch](https://github.com/FlowJournet/Leet-code-solution-1/tree/master/0401-binary-watch) |
 ## Longest Increasing Subsequence
 |  |
 | ------- |
