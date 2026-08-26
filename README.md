@@ -31,6 +31,7 @@
 | [0945-minimum-increment-to-make-array-unique](https://github.com/FlowJournet/Leet-code-solution-1/tree/master/0945-minimum-increment-to-make-array-unique) |
 | [1122-relative-sort-array](https://github.com/FlowJournet/Leet-code-solution-1/tree/master/1122-relative-sort-array) |
 | [1295-find-numbers-with-even-number-of-digits](https://github.com/FlowJournet/Leet-code-solution-1/tree/master/1295-find-numbers-with-even-number-of-digits) |
+| [1470-shuffle-the-array](https://github.com/FlowJournet/Leet-code-solution-1/tree/master/1470-shuffle-the-array) |
 | [1480-running-sum-of-1d-array](https://github.com/FlowJournet/Leet-code-solution-1/tree/master/1480-running-sum-of-1d-array) |
 | [1672-richest-customer-wealth](https://github.com/FlowJournet/Leet-code-solution-1/tree/master/1672-richest-customer-wealth) |
 | [2574-left-and-right-sum-differences](https://github.com/FlowJournet/Leet-code-solution-1/tree/master/2574-left-and-right-sum-differences) |
