@@ -55,6 +55,7 @@
 | [0342-power-of-four](https://github.com/FlowJournet/Leet-code-solution-1/tree/master/0342-power-of-four) |
 | [0367-valid-perfect-square](https://github.com/FlowJournet/Leet-code-solution-1/tree/master/0367-valid-perfect-square) |
 | [0405-convert-a-number-to-hexadecimal](https://github.com/FlowJournet/Leet-code-solution-1/tree/master/0405-convert-a-number-to-hexadecimal) |
+| [0441-arranging-coins](https://github.com/FlowJournet/Leet-code-solution-1/tree/master/0441-arranging-coins) |
 | [0492-construct-the-rectangle](https://github.com/FlowJournet/Leet-code-solution-1/tree/master/0492-construct-the-rectangle) |
 | [0509-fibonacci-number](https://github.com/FlowJournet/Leet-code-solution-1/tree/master/0509-fibonacci-number) |
 | [0728-self-dividing-numbers](https://github.com/FlowJournet/Leet-code-solution-1/tree/master/0728-self-dividing-numbers) |
@@ -95,6 +96,7 @@
 | [0300-longest-increasing-subsequence](https://github.com/FlowJournet/Leet-code-solution-1/tree/master/0300-longest-increasing-subsequence) |
 | [0349-intersection-of-two-arrays](https://github.com/FlowJournet/Leet-code-solution-1/tree/master/0349-intersection-of-two-arrays) |
 | [0367-valid-perfect-square](https://github.com/FlowJournet/Leet-code-solution-1/tree/master/0367-valid-perfect-square) |
+| [0441-arranging-coins](https://github.com/FlowJournet/Leet-code-solution-1/tree/master/0441-arranging-coins) |
 ## Bit Manipulation
 |  |
 | ------- |
