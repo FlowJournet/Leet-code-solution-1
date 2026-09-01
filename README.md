@@ -150,6 +150,7 @@
 | [0657-robot-return-to-origin](https://github.com/FlowJournet/Leet-code-solution-1/tree/master/0657-robot-return-to-origin) |
 | [0680-valid-palindrome-ii](https://github.com/FlowJournet/Leet-code-solution-1/tree/master/0680-valid-palindrome-ii) |
 | [0709-to-lower-case](https://github.com/FlowJournet/Leet-code-solution-1/tree/master/0709-to-lower-case) |
+| [0796-rotate-string](https://github.com/FlowJournet/Leet-code-solution-1/tree/master/0796-rotate-string) |
 | [0804-unique-morse-code-words](https://github.com/FlowJournet/Leet-code-solution-1/tree/master/0804-unique-morse-code-words) |
 | [0806-number-of-lines-to-write-string](https://github.com/FlowJournet/Leet-code-solution-1/tree/master/0806-number-of-lines-to-write-string) |
 | [1108-defanging-an-ip-address](https://github.com/FlowJournet/Leet-code-solution-1/tree/master/1108-defanging-an-ip-address) |
@@ -284,4 +285,8 @@
 |  |
 | ------- |
 | [0069-sqrtx](https://github.com/FlowJournet/Leet-code-solution-1/tree/master/0069-sqrtx) |
+## String Matching
+|  |
+| ------- |
+| [0796-rotate-string](https://github.com/FlowJournet/Leet-code-solution-1/tree/master/0796-rotate-string) |
 <!---LeetCode Topics End-->
