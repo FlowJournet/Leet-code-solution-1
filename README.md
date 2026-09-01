@@ -45,6 +45,7 @@
 | [0069-sqrtx](https://github.com/FlowJournet/Leet-code-solution-1/tree/master/0069-sqrtx) |
 | [0089-gray-code](https://github.com/FlowJournet/Leet-code-solution-1/tree/master/0089-gray-code) |
 | [0166-fraction-to-recurring-decimal](https://github.com/FlowJournet/Leet-code-solution-1/tree/master/0166-fraction-to-recurring-decimal) |
+| [0171-excel-sheet-column-number](https://github.com/FlowJournet/Leet-code-solution-1/tree/master/0171-excel-sheet-column-number) |
 | [0202-happy-number](https://github.com/FlowJournet/Leet-code-solution-1/tree/master/0202-happy-number) |
 | [0231-power-of-two](https://github.com/FlowJournet/Leet-code-solution-1/tree/master/0231-power-of-two) |
 | [0258-add-digits](https://github.com/FlowJournet/Leet-code-solution-1/tree/master/0258-add-digits) |
@@ -140,6 +141,7 @@
 | [0058-length-of-last-word](https://github.com/FlowJournet/Leet-code-solution-1/tree/master/0058-length-of-last-word) |
 | [0125-valid-palindrome](https://github.com/FlowJournet/Leet-code-solution-1/tree/master/0125-valid-palindrome) |
 | [0166-fraction-to-recurring-decimal](https://github.com/FlowJournet/Leet-code-solution-1/tree/master/0166-fraction-to-recurring-decimal) |
+| [0171-excel-sheet-column-number](https://github.com/FlowJournet/Leet-code-solution-1/tree/master/0171-excel-sheet-column-number) |
 | [0290-word-pattern](https://github.com/FlowJournet/Leet-code-solution-1/tree/master/0290-word-pattern) |
 | [0344-reverse-string](https://github.com/FlowJournet/Leet-code-solution-1/tree/master/0344-reverse-string) |
 | [0392-is-subsequence](https://github.com/FlowJournet/Leet-code-solution-1/tree/master/0392-is-subsequence) |
