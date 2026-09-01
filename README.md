@@ -33,6 +33,7 @@
 | [1295-find-numbers-with-even-number-of-digits](https://github.com/FlowJournet/Leet-code-solution-1/tree/master/1295-find-numbers-with-even-number-of-digits) |
 | [1470-shuffle-the-array](https://github.com/FlowJournet/Leet-code-solution-1/tree/master/1470-shuffle-the-array) |
 | [1480-running-sum-of-1d-array](https://github.com/FlowJournet/Leet-code-solution-1/tree/master/1480-running-sum-of-1d-array) |
+| [1572-matrix-diagonal-sum](https://github.com/FlowJournet/Leet-code-solution-1/tree/master/1572-matrix-diagonal-sum) |
 | [1672-richest-customer-wealth](https://github.com/FlowJournet/Leet-code-solution-1/tree/master/1672-richest-customer-wealth) |
 | [2574-left-and-right-sum-differences](https://github.com/FlowJournet/Leet-code-solution-1/tree/master/2574-left-and-right-sum-differences) |
 | [3432-count-partitions-with-even-sum-difference](https://github.com/FlowJournet/Leet-code-solution-1/tree/master/3432-count-partitions-with-even-sum-difference) |
@@ -232,6 +233,7 @@
 | [0054-spiral-matrix](https://github.com/FlowJournet/Leet-code-solution-1/tree/master/0054-spiral-matrix) |
 | [0566-reshape-the-matrix](https://github.com/FlowJournet/Leet-code-solution-1/tree/master/0566-reshape-the-matrix) |
 | [0867-transpose-matrix](https://github.com/FlowJournet/Leet-code-solution-1/tree/master/0867-transpose-matrix) |
+| [1572-matrix-diagonal-sum](https://github.com/FlowJournet/Leet-code-solution-1/tree/master/1572-matrix-diagonal-sum) |
 | [1672-richest-customer-wealth](https://github.com/FlowJournet/Leet-code-solution-1/tree/master/1672-richest-customer-wealth) |
 ## Geometry
 |  |
