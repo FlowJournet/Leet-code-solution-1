@@ -42,6 +42,7 @@
 | ------- |
 | [0062-unique-paths](https://github.com/FlowJournet/Leet-code-solution-1/tree/master/0062-unique-paths) |
 | [0066-plus-one](https://github.com/FlowJournet/Leet-code-solution-1/tree/master/0066-plus-one) |
+| [0069-sqrtx](https://github.com/FlowJournet/Leet-code-solution-1/tree/master/0069-sqrtx) |
 | [0089-gray-code](https://github.com/FlowJournet/Leet-code-solution-1/tree/master/0089-gray-code) |
 | [0166-fraction-to-recurring-decimal](https://github.com/FlowJournet/Leet-code-solution-1/tree/master/0166-fraction-to-recurring-decimal) |
 | [0202-happy-number](https://github.com/FlowJournet/Leet-code-solution-1/tree/master/0202-happy-number) |
@@ -87,6 +88,7 @@
 ## Binary Search
 |  |
 | ------- |
+| [0069-sqrtx](https://github.com/FlowJournet/Leet-code-solution-1/tree/master/0069-sqrtx) |
 | [0153-find-minimum-in-rotated-sorted-array](https://github.com/FlowJournet/Leet-code-solution-1/tree/master/0153-find-minimum-in-rotated-sorted-array) |
 | [0268-missing-number](https://github.com/FlowJournet/Leet-code-solution-1/tree/master/0268-missing-number) |
 | [0300-longest-increasing-subsequence](https://github.com/FlowJournet/Leet-code-solution-1/tree/master/0300-longest-increasing-subsequence) |
@@ -276,4 +278,8 @@
 |  |
 | ------- |
 | [0292-nim-game](https://github.com/FlowJournet/Leet-code-solution-1/tree/master/0292-nim-game) |
+## Newton's Method
+|  |
+| ------- |
+| [0069-sqrtx](https://github.com/FlowJournet/Leet-code-solution-1/tree/master/0069-sqrtx) |
 <!---LeetCode Topics End-->
