@@ -26,6 +26,7 @@
 | [0804-unique-morse-code-words](https://github.com/FlowJournet/Leet-code-solution-1/tree/master/0804-unique-morse-code-words) |
 | [0806-number-of-lines-to-write-string](https://github.com/FlowJournet/Leet-code-solution-1/tree/master/0806-number-of-lines-to-write-string) |
 | [0812-largest-triangle-area](https://github.com/FlowJournet/Leet-code-solution-1/tree/master/0812-largest-triangle-area) |
+| [0852-peak-index-in-a-mountain-array](https://github.com/FlowJournet/Leet-code-solution-1/tree/master/0852-peak-index-in-a-mountain-array) |
 | [0867-transpose-matrix](https://github.com/FlowJournet/Leet-code-solution-1/tree/master/0867-transpose-matrix) |
 | [0905-sort-array-by-parity](https://github.com/FlowJournet/Leet-code-solution-1/tree/master/0905-sort-array-by-parity) |
 | [0945-minimum-increment-to-make-array-unique](https://github.com/FlowJournet/Leet-code-solution-1/tree/master/0945-minimum-increment-to-make-array-unique) |
@@ -98,6 +99,7 @@
 | [0367-valid-perfect-square](https://github.com/FlowJournet/Leet-code-solution-1/tree/master/0367-valid-perfect-square) |
 | [0374-guess-number-higher-or-lower](https://github.com/FlowJournet/Leet-code-solution-1/tree/master/0374-guess-number-higher-or-lower) |
 | [0441-arranging-coins](https://github.com/FlowJournet/Leet-code-solution-1/tree/master/0441-arranging-coins) |
+| [0852-peak-index-in-a-mountain-array](https://github.com/FlowJournet/Leet-code-solution-1/tree/master/0852-peak-index-in-a-mountain-array) |
 ## Bit Manipulation
 |  |
 | ------- |
@@ -296,4 +298,8 @@
 |  |
 | ------- |
 | [0374-guess-number-higher-or-lower](https://github.com/FlowJournet/Leet-code-solution-1/tree/master/0374-guess-number-higher-or-lower) |
+## Ternary Search
+|  |
+| ------- |
+| [0852-peak-index-in-a-mountain-array](https://github.com/FlowJournet/Leet-code-solution-1/tree/master/0852-peak-index-in-a-mountain-array) |
 <!---LeetCode Topics End-->
