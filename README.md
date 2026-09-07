@@ -26,6 +26,7 @@
 | [0804-unique-morse-code-words](https://github.com/FlowJournet/Leet-code-solution-1/tree/master/0804-unique-morse-code-words) |
 | [0806-number-of-lines-to-write-string](https://github.com/FlowJournet/Leet-code-solution-1/tree/master/0806-number-of-lines-to-write-string) |
 | [0812-largest-triangle-area](https://github.com/FlowJournet/Leet-code-solution-1/tree/master/0812-largest-triangle-area) |
+| [0832-flipping-an-image](https://github.com/FlowJournet/Leet-code-solution-1/tree/master/0832-flipping-an-image) |
 | [0852-peak-index-in-a-mountain-array](https://github.com/FlowJournet/Leet-code-solution-1/tree/master/0852-peak-index-in-a-mountain-array) |
 | [0867-transpose-matrix](https://github.com/FlowJournet/Leet-code-solution-1/tree/master/0867-transpose-matrix) |
 | [0905-sort-array-by-parity](https://github.com/FlowJournet/Leet-code-solution-1/tree/master/0905-sort-array-by-parity) |
@@ -117,6 +118,7 @@
 | [0401-binary-watch](https://github.com/FlowJournet/Leet-code-solution-1/tree/master/0401-binary-watch) |
 | [0405-convert-a-number-to-hexadecimal](https://github.com/FlowJournet/Leet-code-solution-1/tree/master/0405-convert-a-number-to-hexadecimal) |
 | [0693-binary-number-with-alternating-bits](https://github.com/FlowJournet/Leet-code-solution-1/tree/master/0693-binary-number-with-alternating-bits) |
+| [0832-flipping-an-image](https://github.com/FlowJournet/Leet-code-solution-1/tree/master/0832-flipping-an-image) |
 | [1009-complement-of-base-10-integer](https://github.com/FlowJournet/Leet-code-solution-1/tree/master/1009-complement-of-base-10-integer) |
 | [1342-number-of-steps-to-reduce-a-number-to-zero](https://github.com/FlowJournet/Leet-code-solution-1/tree/master/1342-number-of-steps-to-reduce-a-number-to-zero) |
 | [1486-xor-operation-in-an-array](https://github.com/FlowJournet/Leet-code-solution-1/tree/master/1486-xor-operation-in-an-array) |
@@ -141,6 +143,7 @@
 | [0349-intersection-of-two-arrays](https://github.com/FlowJournet/Leet-code-solution-1/tree/master/0349-intersection-of-two-arrays) |
 | [0392-is-subsequence](https://github.com/FlowJournet/Leet-code-solution-1/tree/master/0392-is-subsequence) |
 | [0680-valid-palindrome-ii](https://github.com/FlowJournet/Leet-code-solution-1/tree/master/0680-valid-palindrome-ii) |
+| [0832-flipping-an-image](https://github.com/FlowJournet/Leet-code-solution-1/tree/master/0832-flipping-an-image) |
 | [0905-sort-array-by-parity](https://github.com/FlowJournet/Leet-code-solution-1/tree/master/0905-sort-array-by-parity) |
 | [2000-reverse-prefix-of-word](https://github.com/FlowJournet/Leet-code-solution-1/tree/master/2000-reverse-prefix-of-word) |
 ## String
@@ -215,6 +218,7 @@
 | [0258-add-digits](https://github.com/FlowJournet/Leet-code-solution-1/tree/master/0258-add-digits) |
 | [0566-reshape-the-matrix](https://github.com/FlowJournet/Leet-code-solution-1/tree/master/0566-reshape-the-matrix) |
 | [0657-robot-return-to-origin](https://github.com/FlowJournet/Leet-code-solution-1/tree/master/0657-robot-return-to-origin) |
+| [0832-flipping-an-image](https://github.com/FlowJournet/Leet-code-solution-1/tree/master/0832-flipping-an-image) |
 | [0867-transpose-matrix](https://github.com/FlowJournet/Leet-code-solution-1/tree/master/0867-transpose-matrix) |
 ## Number Theory
 |  |
@@ -247,6 +251,7 @@
 | ------- |
 | [0054-spiral-matrix](https://github.com/FlowJournet/Leet-code-solution-1/tree/master/0054-spiral-matrix) |
 | [0566-reshape-the-matrix](https://github.com/FlowJournet/Leet-code-solution-1/tree/master/0566-reshape-the-matrix) |
+| [0832-flipping-an-image](https://github.com/FlowJournet/Leet-code-solution-1/tree/master/0832-flipping-an-image) |
 | [0867-transpose-matrix](https://github.com/FlowJournet/Leet-code-solution-1/tree/master/0867-transpose-matrix) |
 | [1572-matrix-diagonal-sum](https://github.com/FlowJournet/Leet-code-solution-1/tree/master/1572-matrix-diagonal-sum) |
 | [1672-richest-customer-wealth](https://github.com/FlowJournet/Leet-code-solution-1/tree/master/1672-richest-customer-wealth) |
