@@ -58,6 +58,7 @@
 | [0292-nim-game](https://github.com/FlowJournet/Leet-code-solution-1/tree/master/0292-nim-game) |
 | [0319-bulb-switcher](https://github.com/FlowJournet/Leet-code-solution-1/tree/master/0319-bulb-switcher) |
 | [0342-power-of-four](https://github.com/FlowJournet/Leet-code-solution-1/tree/master/0342-power-of-four) |
+| [0357-count-numbers-with-unique-digits](https://github.com/FlowJournet/Leet-code-solution-1/tree/master/0357-count-numbers-with-unique-digits) |
 | [0367-valid-perfect-square](https://github.com/FlowJournet/Leet-code-solution-1/tree/master/0367-valid-perfect-square) |
 | [0405-convert-a-number-to-hexadecimal](https://github.com/FlowJournet/Leet-code-solution-1/tree/master/0405-convert-a-number-to-hexadecimal) |
 | [0441-arranging-coins](https://github.com/FlowJournet/Leet-code-solution-1/tree/master/0441-arranging-coins) |
@@ -196,6 +197,7 @@
 | [0152-maximum-product-subarray](https://github.com/FlowJournet/Leet-code-solution-1/tree/master/0152-maximum-product-subarray) |
 | [0198-house-robber](https://github.com/FlowJournet/Leet-code-solution-1/tree/master/0198-house-robber) |
 | [0300-longest-increasing-subsequence](https://github.com/FlowJournet/Leet-code-solution-1/tree/master/0300-longest-increasing-subsequence) |
+| [0357-count-numbers-with-unique-digits](https://github.com/FlowJournet/Leet-code-solution-1/tree/master/0357-count-numbers-with-unique-digits) |
 | [0392-is-subsequence](https://github.com/FlowJournet/Leet-code-solution-1/tree/master/0392-is-subsequence) |
 | [0509-fibonacci-number](https://github.com/FlowJournet/Leet-code-solution-1/tree/master/0509-fibonacci-number) |
 | [0552-student-attendance-record-ii](https://github.com/FlowJournet/Leet-code-solution-1/tree/master/0552-student-attendance-record-ii) |
@@ -282,6 +284,7 @@
 |  |
 | ------- |
 | [0089-gray-code](https://github.com/FlowJournet/Leet-code-solution-1/tree/master/0089-gray-code) |
+| [0357-count-numbers-with-unique-digits](https://github.com/FlowJournet/Leet-code-solution-1/tree/master/0357-count-numbers-with-unique-digits) |
 | [0401-binary-watch](https://github.com/FlowJournet/Leet-code-solution-1/tree/master/0401-binary-watch) |
 ## Longest Increasing Subsequence
 |  |
