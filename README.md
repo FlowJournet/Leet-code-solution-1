@@ -339,4 +339,8 @@
 |  |
 | ------- |
 | [0617-merge-two-binary-trees](https://github.com/FlowJournet/Leet-code-solution-1/tree/master/0617-merge-two-binary-trees) |
+## Database
+|  |
+| ------- |
+| [0610-triangle-judgement](https://github.com/FlowJournet/Leet-code-solution-1/tree/master/0610-triangle-judgement) |
 <!---LeetCode Topics End-->
