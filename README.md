@@ -155,6 +155,7 @@
 |  |
 | ------- |
 | [0058-length-of-last-word](https://github.com/FlowJournet/Leet-code-solution-1/tree/master/0058-length-of-last-word) |
+| [0072-edit-distance](https://github.com/FlowJournet/Leet-code-solution-1/tree/master/0072-edit-distance) |
 | [0125-valid-palindrome](https://github.com/FlowJournet/Leet-code-solution-1/tree/master/0125-valid-palindrome) |
 | [0166-fraction-to-recurring-decimal](https://github.com/FlowJournet/Leet-code-solution-1/tree/master/0166-fraction-to-recurring-decimal) |
 | [0171-excel-sheet-column-number](https://github.com/FlowJournet/Leet-code-solution-1/tree/master/0171-excel-sheet-column-number) |
@@ -190,6 +191,7 @@
 | ------- |
 | [0053-maximum-subarray](https://github.com/FlowJournet/Leet-code-solution-1/tree/master/0053-maximum-subarray) |
 | [0062-unique-paths](https://github.com/FlowJournet/Leet-code-solution-1/tree/master/0062-unique-paths) |
+| [0072-edit-distance](https://github.com/FlowJournet/Leet-code-solution-1/tree/master/0072-edit-distance) |
 | [0121-best-time-to-buy-and-sell-stock](https://github.com/FlowJournet/Leet-code-solution-1/tree/master/0121-best-time-to-buy-and-sell-stock) |
 | [0152-maximum-product-subarray](https://github.com/FlowJournet/Leet-code-solution-1/tree/master/0152-maximum-product-subarray) |
 | [0198-house-robber](https://github.com/FlowJournet/Leet-code-solution-1/tree/master/0198-house-robber) |
