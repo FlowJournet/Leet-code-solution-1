@@ -192,6 +192,7 @@
 | [0300-longest-increasing-subsequence](https://github.com/FlowJournet/Leet-code-solution-1/tree/master/0300-longest-increasing-subsequence) |
 | [0392-is-subsequence](https://github.com/FlowJournet/Leet-code-solution-1/tree/master/0392-is-subsequence) |
 | [0509-fibonacci-number](https://github.com/FlowJournet/Leet-code-solution-1/tree/master/0509-fibonacci-number) |
+| [0552-student-attendance-record-ii](https://github.com/FlowJournet/Leet-code-solution-1/tree/master/0552-student-attendance-record-ii) |
 | [0639-decode-ways-ii](https://github.com/FlowJournet/Leet-code-solution-1/tree/master/0639-decode-ways-ii) |
 | [1000-minimum-cost-to-merge-stones](https://github.com/FlowJournet/Leet-code-solution-1/tree/master/1000-minimum-cost-to-merge-stones) |
 | [1137-n-th-tribonacci-number](https://github.com/FlowJournet/Leet-code-solution-1/tree/master/1137-n-th-tribonacci-number) |
