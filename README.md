@@ -23,6 +23,7 @@
 | [0349-intersection-of-two-arrays](https://github.com/FlowJournet/Leet-code-solution-1/tree/master/0349-intersection-of-two-arrays) |
 | [0566-reshape-the-matrix](https://github.com/FlowJournet/Leet-code-solution-1/tree/master/0566-reshape-the-matrix) |
 | [0575-distribute-candies](https://github.com/FlowJournet/Leet-code-solution-1/tree/master/0575-distribute-candies) |
+| [0632-smallest-range-covering-elements-from-k-lists](https://github.com/FlowJournet/Leet-code-solution-1/tree/master/0632-smallest-range-covering-elements-from-k-lists) |
 | [0804-unique-morse-code-words](https://github.com/FlowJournet/Leet-code-solution-1/tree/master/0804-unique-morse-code-words) |
 | [0806-number-of-lines-to-write-string](https://github.com/FlowJournet/Leet-code-solution-1/tree/master/0806-number-of-lines-to-write-string) |
 | [0812-largest-triangle-area](https://github.com/FlowJournet/Leet-code-solution-1/tree/master/0812-largest-triangle-area) |
@@ -89,6 +90,7 @@
 | [0290-word-pattern](https://github.com/FlowJournet/Leet-code-solution-1/tree/master/0290-word-pattern) |
 | [0349-intersection-of-two-arrays](https://github.com/FlowJournet/Leet-code-solution-1/tree/master/0349-intersection-of-two-arrays) |
 | [0575-distribute-candies](https://github.com/FlowJournet/Leet-code-solution-1/tree/master/0575-distribute-candies) |
+| [0632-smallest-range-covering-elements-from-k-lists](https://github.com/FlowJournet/Leet-code-solution-1/tree/master/0632-smallest-range-covering-elements-from-k-lists) |
 | [0804-unique-morse-code-words](https://github.com/FlowJournet/Leet-code-solution-1/tree/master/0804-unique-morse-code-words) |
 | [1122-relative-sort-array](https://github.com/FlowJournet/Leet-code-solution-1/tree/master/1122-relative-sort-array) |
 | [1189-maximum-number-of-balloons](https://github.com/FlowJournet/Leet-code-solution-1/tree/master/1189-maximum-number-of-balloons) |
@@ -129,6 +131,7 @@
 | [0056-merge-intervals](https://github.com/FlowJournet/Leet-code-solution-1/tree/master/0056-merge-intervals) |
 | [0268-missing-number](https://github.com/FlowJournet/Leet-code-solution-1/tree/master/0268-missing-number) |
 | [0349-intersection-of-two-arrays](https://github.com/FlowJournet/Leet-code-solution-1/tree/master/0349-intersection-of-two-arrays) |
+| [0632-smallest-range-covering-elements-from-k-lists](https://github.com/FlowJournet/Leet-code-solution-1/tree/master/0632-smallest-range-covering-elements-from-k-lists) |
 | [0905-sort-array-by-parity](https://github.com/FlowJournet/Leet-code-solution-1/tree/master/0905-sort-array-by-parity) |
 | [0945-minimum-increment-to-make-array-unique](https://github.com/FlowJournet/Leet-code-solution-1/tree/master/0945-minimum-increment-to-make-array-unique) |
 | [1122-relative-sort-array](https://github.com/FlowJournet/Leet-code-solution-1/tree/master/1122-relative-sort-array) |
@@ -173,6 +176,7 @@
 |  |
 | ------- |
 | [0011-container-with-most-water](https://github.com/FlowJournet/Leet-code-solution-1/tree/master/0011-container-with-most-water) |
+| [0632-smallest-range-covering-elements-from-k-lists](https://github.com/FlowJournet/Leet-code-solution-1/tree/master/0632-smallest-range-covering-elements-from-k-lists) |
 | [0680-valid-palindrome-ii](https://github.com/FlowJournet/Leet-code-solution-1/tree/master/0680-valid-palindrome-ii) |
 | [0945-minimum-increment-to-make-array-unique](https://github.com/FlowJournet/Leet-code-solution-1/tree/master/0945-minimum-increment-to-make-array-unique) |
 | [1323-maximum-69-number](https://github.com/FlowJournet/Leet-code-solution-1/tree/master/1323-maximum-69-number) |
@@ -350,4 +354,12 @@
 |  |
 | ------- |
 | [0543-diameter-of-binary-tree](https://github.com/FlowJournet/Leet-code-solution-1/tree/master/0543-diameter-of-binary-tree) |
+## Sliding Window
+|  |
+| ------- |
+| [0632-smallest-range-covering-elements-from-k-lists](https://github.com/FlowJournet/Leet-code-solution-1/tree/master/0632-smallest-range-covering-elements-from-k-lists) |
+## Heap (Priority Queue)
+|  |
+| ------- |
+| [0632-smallest-range-covering-elements-from-k-lists](https://github.com/FlowJournet/Leet-code-solution-1/tree/master/0632-smallest-range-covering-elements-from-k-lists) |
 <!---LeetCode Topics End-->
