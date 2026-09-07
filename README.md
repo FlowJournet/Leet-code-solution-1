@@ -326,10 +326,12 @@
 ## Tree
 |  |
 | ------- |
+| [0543-diameter-of-binary-tree](https://github.com/FlowJournet/Leet-code-solution-1/tree/master/0543-diameter-of-binary-tree) |
 | [0617-merge-two-binary-trees](https://github.com/FlowJournet/Leet-code-solution-1/tree/master/0617-merge-two-binary-trees) |
 ## Depth-First Search
 |  |
 | ------- |
+| [0543-diameter-of-binary-tree](https://github.com/FlowJournet/Leet-code-solution-1/tree/master/0543-diameter-of-binary-tree) |
 | [0617-merge-two-binary-trees](https://github.com/FlowJournet/Leet-code-solution-1/tree/master/0617-merge-two-binary-trees) |
 ## Breadth-First Search
 |  |
@@ -338,9 +340,14 @@
 ## Binary Tree
 |  |
 | ------- |
+| [0543-diameter-of-binary-tree](https://github.com/FlowJournet/Leet-code-solution-1/tree/master/0543-diameter-of-binary-tree) |
 | [0617-merge-two-binary-trees](https://github.com/FlowJournet/Leet-code-solution-1/tree/master/0617-merge-two-binary-trees) |
 ## Database
 |  |
 | ------- |
 | [0610-triangle-judgement](https://github.com/FlowJournet/Leet-code-solution-1/tree/master/0610-triangle-judgement) |
+## DP on Trees
+|  |
+| ------- |
+| [0543-diameter-of-binary-tree](https://github.com/FlowJournet/Leet-code-solution-1/tree/master/0543-diameter-of-binary-tree) |
 <!---LeetCode Topics End-->
