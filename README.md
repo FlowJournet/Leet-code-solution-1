@@ -322,4 +322,20 @@
 | ------- |
 | [0234-palindrome-linked-list](https://github.com/FlowJournet/Leet-code-solution-1/tree/master/0234-palindrome-linked-list) |
 | [2000-reverse-prefix-of-word](https://github.com/FlowJournet/Leet-code-solution-1/tree/master/2000-reverse-prefix-of-word) |
+## Tree
+|  |
+| ------- |
+| [0617-merge-two-binary-trees](https://github.com/FlowJournet/Leet-code-solution-1/tree/master/0617-merge-two-binary-trees) |
+## Depth-First Search
+|  |
+| ------- |
+| [0617-merge-two-binary-trees](https://github.com/FlowJournet/Leet-code-solution-1/tree/master/0617-merge-two-binary-trees) |
+## Breadth-First Search
+|  |
+| ------- |
+| [0617-merge-two-binary-trees](https://github.com/FlowJournet/Leet-code-solution-1/tree/master/0617-merge-two-binary-trees) |
+## Binary Tree
+|  |
+| ------- |
+| [0617-merge-two-binary-trees](https://github.com/FlowJournet/Leet-code-solution-1/tree/master/0617-merge-two-binary-trees) |
 <!---LeetCode Topics End-->
