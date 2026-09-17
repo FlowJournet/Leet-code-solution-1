@@ -171,6 +171,7 @@
 | [0290-word-pattern](https://github.com/FlowJournet/Leet-code-solution-1/tree/master/0290-word-pattern) |
 | [0344-reverse-string](https://github.com/FlowJournet/Leet-code-solution-1/tree/master/0344-reverse-string) |
 | [0392-is-subsequence](https://github.com/FlowJournet/Leet-code-solution-1/tree/master/0392-is-subsequence) |
+| [0394-decode-string](https://github.com/FlowJournet/Leet-code-solution-1/tree/master/0394-decode-string) |
 | [0405-convert-a-number-to-hexadecimal](https://github.com/FlowJournet/Leet-code-solution-1/tree/master/0405-convert-a-number-to-hexadecimal) |
 | [0639-decode-ways-ii](https://github.com/FlowJournet/Leet-code-solution-1/tree/master/0639-decode-ways-ii) |
 | [0657-robot-return-to-origin](https://github.com/FlowJournet/Leet-code-solution-1/tree/master/0657-robot-return-to-origin) |
@@ -219,6 +220,7 @@
 | [0231-power-of-two](https://github.com/FlowJournet/Leet-code-solution-1/tree/master/0231-power-of-two) |
 | [0234-palindrome-linked-list](https://github.com/FlowJournet/Leet-code-solution-1/tree/master/0234-palindrome-linked-list) |
 | [0342-power-of-four](https://github.com/FlowJournet/Leet-code-solution-1/tree/master/0342-power-of-four) |
+| [0394-decode-string](https://github.com/FlowJournet/Leet-code-solution-1/tree/master/0394-decode-string) |
 | [0509-fibonacci-number](https://github.com/FlowJournet/Leet-code-solution-1/tree/master/0509-fibonacci-number) |
 | [3483-unique-3-digit-even-numbers](https://github.com/FlowJournet/Leet-code-solution-1/tree/master/3483-unique-3-digit-even-numbers) |
 ## Divide and Conquer
@@ -342,6 +344,7 @@
 |  |
 | ------- |
 | [0234-palindrome-linked-list](https://github.com/FlowJournet/Leet-code-solution-1/tree/master/0234-palindrome-linked-list) |
+| [0394-decode-string](https://github.com/FlowJournet/Leet-code-solution-1/tree/master/0394-decode-string) |
 | [2000-reverse-prefix-of-word](https://github.com/FlowJournet/Leet-code-solution-1/tree/master/2000-reverse-prefix-of-word) |
 ## Tree
 |  |
