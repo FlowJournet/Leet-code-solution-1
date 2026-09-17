@@ -44,6 +44,7 @@
 | [1929-concatenation-of-array](https://github.com/FlowJournet/Leet-code-solution-1/tree/master/1929-concatenation-of-array) |
 | [2574-left-and-right-sum-differences](https://github.com/FlowJournet/Leet-code-solution-1/tree/master/2574-left-and-right-sum-differences) |
 | [3432-count-partitions-with-even-sum-difference](https://github.com/FlowJournet/Leet-code-solution-1/tree/master/3432-count-partitions-with-even-sum-difference) |
+| [3483-unique-3-digit-even-numbers](https://github.com/FlowJournet/Leet-code-solution-1/tree/master/3483-unique-3-digit-even-numbers) |
 ## Math
 |  |
 | ------- |
@@ -99,6 +100,7 @@
 | [1122-relative-sort-array](https://github.com/FlowJournet/Leet-code-solution-1/tree/master/1122-relative-sort-array) |
 | [1189-maximum-number-of-balloons](https://github.com/FlowJournet/Leet-code-solution-1/tree/master/1189-maximum-number-of-balloons) |
 | [1365-how-many-numbers-are-smaller-than-the-current-number](https://github.com/FlowJournet/Leet-code-solution-1/tree/master/1365-how-many-numbers-are-smaller-than-the-current-number) |
+| [3483-unique-3-digit-even-numbers](https://github.com/FlowJournet/Leet-code-solution-1/tree/master/3483-unique-3-digit-even-numbers) |
 ## Binary Search
 |  |
 | ------- |
@@ -218,6 +220,7 @@
 | [0234-palindrome-linked-list](https://github.com/FlowJournet/Leet-code-solution-1/tree/master/0234-palindrome-linked-list) |
 | [0342-power-of-four](https://github.com/FlowJournet/Leet-code-solution-1/tree/master/0342-power-of-four) |
 | [0509-fibonacci-number](https://github.com/FlowJournet/Leet-code-solution-1/tree/master/0509-fibonacci-number) |
+| [3483-unique-3-digit-even-numbers](https://github.com/FlowJournet/Leet-code-solution-1/tree/master/3483-unique-3-digit-even-numbers) |
 ## Divide and Conquer
 |  |
 | ------- |
@@ -376,4 +379,8 @@
 | ------- |
 | [0506-relative-ranks](https://github.com/FlowJournet/Leet-code-solution-1/tree/master/0506-relative-ranks) |
 | [0632-smallest-range-covering-elements-from-k-lists](https://github.com/FlowJournet/Leet-code-solution-1/tree/master/0632-smallest-range-covering-elements-from-k-lists) |
+## Enumeration
+|  |
+| ------- |
+| [3483-unique-3-digit-even-numbers](https://github.com/FlowJournet/Leet-code-solution-1/tree/master/3483-unique-3-digit-even-numbers) |
 <!---LeetCode Topics End-->
