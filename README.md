@@ -36,6 +36,7 @@
 | [1000-minimum-cost-to-merge-stones](https://github.com/FlowJournet/Leet-code-solution-1/tree/master/1000-minimum-cost-to-merge-stones) |
 | [1122-relative-sort-array](https://github.com/FlowJournet/Leet-code-solution-1/tree/master/1122-relative-sort-array) |
 | [1295-find-numbers-with-even-number-of-digits](https://github.com/FlowJournet/Leet-code-solution-1/tree/master/1295-find-numbers-with-even-number-of-digits) |
+| [1365-how-many-numbers-are-smaller-than-the-current-number](https://github.com/FlowJournet/Leet-code-solution-1/tree/master/1365-how-many-numbers-are-smaller-than-the-current-number) |
 | [1470-shuffle-the-array](https://github.com/FlowJournet/Leet-code-solution-1/tree/master/1470-shuffle-the-array) |
 | [1480-running-sum-of-1d-array](https://github.com/FlowJournet/Leet-code-solution-1/tree/master/1480-running-sum-of-1d-array) |
 | [1572-matrix-diagonal-sum](https://github.com/FlowJournet/Leet-code-solution-1/tree/master/1572-matrix-diagonal-sum) |
@@ -96,6 +97,7 @@
 | [0804-unique-morse-code-words](https://github.com/FlowJournet/Leet-code-solution-1/tree/master/0804-unique-morse-code-words) |
 | [1122-relative-sort-array](https://github.com/FlowJournet/Leet-code-solution-1/tree/master/1122-relative-sort-array) |
 | [1189-maximum-number-of-balloons](https://github.com/FlowJournet/Leet-code-solution-1/tree/master/1189-maximum-number-of-balloons) |
+| [1365-how-many-numbers-are-smaller-than-the-current-number](https://github.com/FlowJournet/Leet-code-solution-1/tree/master/1365-how-many-numbers-are-smaller-than-the-current-number) |
 ## Binary Search
 |  |
 | ------- |
@@ -138,6 +140,7 @@
 | [0905-sort-array-by-parity](https://github.com/FlowJournet/Leet-code-solution-1/tree/master/0905-sort-array-by-parity) |
 | [0945-minimum-increment-to-make-array-unique](https://github.com/FlowJournet/Leet-code-solution-1/tree/master/0945-minimum-increment-to-make-array-unique) |
 | [1122-relative-sort-array](https://github.com/FlowJournet/Leet-code-solution-1/tree/master/1122-relative-sort-array) |
+| [1365-how-many-numbers-are-smaller-than-the-current-number](https://github.com/FlowJournet/Leet-code-solution-1/tree/master/1365-how-many-numbers-are-smaller-than-the-current-number) |
 ## Two Pointers
 |  |
 | ------- |
@@ -252,6 +255,7 @@
 |  |
 | ------- |
 | [1122-relative-sort-array](https://github.com/FlowJournet/Leet-code-solution-1/tree/master/1122-relative-sort-array) |
+| [1365-how-many-numbers-are-smaller-than-the-current-number](https://github.com/FlowJournet/Leet-code-solution-1/tree/master/1365-how-many-numbers-are-smaller-than-the-current-number) |
 ## Quicksort
 |  |
 | ------- |
