@@ -368,6 +368,7 @@
 ## Database
 |  |
 | ------- |
+| [0511-game-play-analysis-i](https://github.com/FlowJournet/Leet-code-solution-1/tree/master/0511-game-play-analysis-i) |
 | [0610-triangle-judgement](https://github.com/FlowJournet/Leet-code-solution-1/tree/master/0610-triangle-judgement) |
 ## DP on Trees
 |  |
