@@ -26,6 +26,7 @@
 | [0506-relative-ranks](https://github.com/FlowJournet/Leet-code-solution-1/tree/master/0506-relative-ranks) |
 | [0566-reshape-the-matrix](https://github.com/FlowJournet/Leet-code-solution-1/tree/master/0566-reshape-the-matrix) |
 | [0575-distribute-candies](https://github.com/FlowJournet/Leet-code-solution-1/tree/master/0575-distribute-candies) |
+| [0594-longest-harmonious-subsequence](https://github.com/FlowJournet/Leet-code-solution-1/tree/master/0594-longest-harmonious-subsequence) |
 | [0605-can-place-flowers](https://github.com/FlowJournet/Leet-code-solution-1/tree/master/0605-can-place-flowers) |
 | [0632-smallest-range-covering-elements-from-k-lists](https://github.com/FlowJournet/Leet-code-solution-1/tree/master/0632-smallest-range-covering-elements-from-k-lists) |
 | [0766-toeplitz-matrix](https://github.com/FlowJournet/Leet-code-solution-1/tree/master/0766-toeplitz-matrix) |
@@ -99,6 +100,7 @@
 | [0290-word-pattern](https://github.com/FlowJournet/Leet-code-solution-1/tree/master/0290-word-pattern) |
 | [0349-intersection-of-two-arrays](https://github.com/FlowJournet/Leet-code-solution-1/tree/master/0349-intersection-of-two-arrays) |
 | [0575-distribute-candies](https://github.com/FlowJournet/Leet-code-solution-1/tree/master/0575-distribute-candies) |
+| [0594-longest-harmonious-subsequence](https://github.com/FlowJournet/Leet-code-solution-1/tree/master/0594-longest-harmonious-subsequence) |
 | [0632-smallest-range-covering-elements-from-k-lists](https://github.com/FlowJournet/Leet-code-solution-1/tree/master/0632-smallest-range-covering-elements-from-k-lists) |
 | [0804-unique-morse-code-words](https://github.com/FlowJournet/Leet-code-solution-1/tree/master/0804-unique-morse-code-words) |
 | [0884-uncommon-words-from-two-sentences](https://github.com/FlowJournet/Leet-code-solution-1/tree/master/0884-uncommon-words-from-two-sentences) |
@@ -144,6 +146,7 @@
 | [0268-missing-number](https://github.com/FlowJournet/Leet-code-solution-1/tree/master/0268-missing-number) |
 | [0349-intersection-of-two-arrays](https://github.com/FlowJournet/Leet-code-solution-1/tree/master/0349-intersection-of-two-arrays) |
 | [0506-relative-ranks](https://github.com/FlowJournet/Leet-code-solution-1/tree/master/0506-relative-ranks) |
+| [0594-longest-harmonious-subsequence](https://github.com/FlowJournet/Leet-code-solution-1/tree/master/0594-longest-harmonious-subsequence) |
 | [0632-smallest-range-covering-elements-from-k-lists](https://github.com/FlowJournet/Leet-code-solution-1/tree/master/0632-smallest-range-covering-elements-from-k-lists) |
 | [0905-sort-array-by-parity](https://github.com/FlowJournet/Leet-code-solution-1/tree/master/0905-sort-array-by-parity) |
 | [0945-minimum-increment-to-make-array-unique](https://github.com/FlowJournet/Leet-code-solution-1/tree/master/0945-minimum-increment-to-make-array-unique) |
@@ -207,6 +210,7 @@
 ## Counting
 |  |
 | ------- |
+| [0594-longest-harmonious-subsequence](https://github.com/FlowJournet/Leet-code-solution-1/tree/master/0594-longest-harmonious-subsequence) |
 | [0884-uncommon-words-from-two-sentences](https://github.com/FlowJournet/Leet-code-solution-1/tree/master/0884-uncommon-words-from-two-sentences) |
 | [0945-minimum-increment-to-make-array-unique](https://github.com/FlowJournet/Leet-code-solution-1/tree/master/0945-minimum-increment-to-make-array-unique) |
 | [1189-maximum-number-of-balloons](https://github.com/FlowJournet/Leet-code-solution-1/tree/master/1189-maximum-number-of-balloons) |
@@ -403,6 +407,7 @@
 ## Sliding Window
 |  |
 | ------- |
+| [0594-longest-harmonious-subsequence](https://github.com/FlowJournet/Leet-code-solution-1/tree/master/0594-longest-harmonious-subsequence) |
 | [0632-smallest-range-covering-elements-from-k-lists](https://github.com/FlowJournet/Leet-code-solution-1/tree/master/0632-smallest-range-covering-elements-from-k-lists) |
 ## Heap (Priority Queue)
 |  |
