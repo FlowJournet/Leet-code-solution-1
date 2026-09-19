@@ -22,6 +22,7 @@
 | [0300-longest-increasing-subsequence](https://github.com/FlowJournet/Leet-code-solution-1/tree/master/0300-longest-increasing-subsequence) |
 | [0349-intersection-of-two-arrays](https://github.com/FlowJournet/Leet-code-solution-1/tree/master/0349-intersection-of-two-arrays) |
 | [0485-max-consecutive-ones](https://github.com/FlowJournet/Leet-code-solution-1/tree/master/0485-max-consecutive-ones) |
+| [0495-teemo-attacking](https://github.com/FlowJournet/Leet-code-solution-1/tree/master/0495-teemo-attacking) |
 | [0506-relative-ranks](https://github.com/FlowJournet/Leet-code-solution-1/tree/master/0506-relative-ranks) |
 | [0566-reshape-the-matrix](https://github.com/FlowJournet/Leet-code-solution-1/tree/master/0566-reshape-the-matrix) |
 | [0575-distribute-candies](https://github.com/FlowJournet/Leet-code-solution-1/tree/master/0575-distribute-candies) |
@@ -248,6 +249,7 @@
 | ------- |
 | [0054-spiral-matrix](https://github.com/FlowJournet/Leet-code-solution-1/tree/master/0054-spiral-matrix) |
 | [0258-add-digits](https://github.com/FlowJournet/Leet-code-solution-1/tree/master/0258-add-digits) |
+| [0495-teemo-attacking](https://github.com/FlowJournet/Leet-code-solution-1/tree/master/0495-teemo-attacking) |
 | [0566-reshape-the-matrix](https://github.com/FlowJournet/Leet-code-solution-1/tree/master/0566-reshape-the-matrix) |
 | [0657-robot-return-to-origin](https://github.com/FlowJournet/Leet-code-solution-1/tree/master/0657-robot-return-to-origin) |
 | [0832-flipping-an-image](https://github.com/FlowJournet/Leet-code-solution-1/tree/master/0832-flipping-an-image) |
