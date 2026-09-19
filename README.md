@@ -352,22 +352,26 @@
 | [0543-diameter-of-binary-tree](https://github.com/FlowJournet/Leet-code-solution-1/tree/master/0543-diameter-of-binary-tree) |
 | [0563-binary-tree-tilt](https://github.com/FlowJournet/Leet-code-solution-1/tree/master/0563-binary-tree-tilt) |
 | [0617-merge-two-binary-trees](https://github.com/FlowJournet/Leet-code-solution-1/tree/master/0617-merge-two-binary-trees) |
+| [0783-minimum-distance-between-bst-nodes](https://github.com/FlowJournet/Leet-code-solution-1/tree/master/0783-minimum-distance-between-bst-nodes) |
 ## Depth-First Search
 |  |
 | ------- |
 | [0543-diameter-of-binary-tree](https://github.com/FlowJournet/Leet-code-solution-1/tree/master/0543-diameter-of-binary-tree) |
 | [0563-binary-tree-tilt](https://github.com/FlowJournet/Leet-code-solution-1/tree/master/0563-binary-tree-tilt) |
 | [0617-merge-two-binary-trees](https://github.com/FlowJournet/Leet-code-solution-1/tree/master/0617-merge-two-binary-trees) |
+| [0783-minimum-distance-between-bst-nodes](https://github.com/FlowJournet/Leet-code-solution-1/tree/master/0783-minimum-distance-between-bst-nodes) |
 ## Breadth-First Search
 |  |
 | ------- |
 | [0617-merge-two-binary-trees](https://github.com/FlowJournet/Leet-code-solution-1/tree/master/0617-merge-two-binary-trees) |
+| [0783-minimum-distance-between-bst-nodes](https://github.com/FlowJournet/Leet-code-solution-1/tree/master/0783-minimum-distance-between-bst-nodes) |
 ## Binary Tree
 |  |
 | ------- |
 | [0543-diameter-of-binary-tree](https://github.com/FlowJournet/Leet-code-solution-1/tree/master/0543-diameter-of-binary-tree) |
 | [0563-binary-tree-tilt](https://github.com/FlowJournet/Leet-code-solution-1/tree/master/0563-binary-tree-tilt) |
 | [0617-merge-two-binary-trees](https://github.com/FlowJournet/Leet-code-solution-1/tree/master/0617-merge-two-binary-trees) |
+| [0783-minimum-distance-between-bst-nodes](https://github.com/FlowJournet/Leet-code-solution-1/tree/master/0783-minimum-distance-between-bst-nodes) |
 ## Database
 |  |
 | ------- |
@@ -391,4 +395,8 @@
 |  |
 | ------- |
 | [3483-unique-3-digit-even-numbers](https://github.com/FlowJournet/Leet-code-solution-1/tree/master/3483-unique-3-digit-even-numbers) |
+## Binary Search Tree
+|  |
+| ------- |
+| [0783-minimum-distance-between-bst-nodes](https://github.com/FlowJournet/Leet-code-solution-1/tree/master/0783-minimum-distance-between-bst-nodes) |
 <!---LeetCode Topics End-->
