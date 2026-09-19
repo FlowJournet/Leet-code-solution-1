@@ -24,6 +24,7 @@
 | [0506-relative-ranks](https://github.com/FlowJournet/Leet-code-solution-1/tree/master/0506-relative-ranks) |
 | [0566-reshape-the-matrix](https://github.com/FlowJournet/Leet-code-solution-1/tree/master/0566-reshape-the-matrix) |
 | [0575-distribute-candies](https://github.com/FlowJournet/Leet-code-solution-1/tree/master/0575-distribute-candies) |
+| [0605-can-place-flowers](https://github.com/FlowJournet/Leet-code-solution-1/tree/master/0605-can-place-flowers) |
 | [0632-smallest-range-covering-elements-from-k-lists](https://github.com/FlowJournet/Leet-code-solution-1/tree/master/0632-smallest-range-covering-elements-from-k-lists) |
 | [0804-unique-morse-code-words](https://github.com/FlowJournet/Leet-code-solution-1/tree/master/0804-unique-morse-code-words) |
 | [0806-number-of-lines-to-write-string](https://github.com/FlowJournet/Leet-code-solution-1/tree/master/0806-number-of-lines-to-write-string) |
@@ -188,6 +189,7 @@
 |  |
 | ------- |
 | [0011-container-with-most-water](https://github.com/FlowJournet/Leet-code-solution-1/tree/master/0011-container-with-most-water) |
+| [0605-can-place-flowers](https://github.com/FlowJournet/Leet-code-solution-1/tree/master/0605-can-place-flowers) |
 | [0632-smallest-range-covering-elements-from-k-lists](https://github.com/FlowJournet/Leet-code-solution-1/tree/master/0632-smallest-range-covering-elements-from-k-lists) |
 | [0680-valid-palindrome-ii](https://github.com/FlowJournet/Leet-code-solution-1/tree/master/0680-valid-palindrome-ii) |
 | [0945-minimum-increment-to-make-array-unique](https://github.com/FlowJournet/Leet-code-solution-1/tree/master/0945-minimum-increment-to-make-array-unique) |
