@@ -173,6 +173,7 @@
 | [0392-is-subsequence](https://github.com/FlowJournet/Leet-code-solution-1/tree/master/0392-is-subsequence) |
 | [0394-decode-string](https://github.com/FlowJournet/Leet-code-solution-1/tree/master/0394-decode-string) |
 | [0405-convert-a-number-to-hexadecimal](https://github.com/FlowJournet/Leet-code-solution-1/tree/master/0405-convert-a-number-to-hexadecimal) |
+| [0520-detect-capital](https://github.com/FlowJournet/Leet-code-solution-1/tree/master/0520-detect-capital) |
 | [0639-decode-ways-ii](https://github.com/FlowJournet/Leet-code-solution-1/tree/master/0639-decode-ways-ii) |
 | [0657-robot-return-to-origin](https://github.com/FlowJournet/Leet-code-solution-1/tree/master/0657-robot-return-to-origin) |
 | [0680-valid-palindrome-ii](https://github.com/FlowJournet/Leet-code-solution-1/tree/master/0680-valid-palindrome-ii) |
