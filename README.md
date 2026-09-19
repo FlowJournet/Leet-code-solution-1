@@ -21,6 +21,7 @@
 | [0283-move-zeroes](https://github.com/FlowJournet/Leet-code-solution-1/tree/master/0283-move-zeroes) |
 | [0300-longest-increasing-subsequence](https://github.com/FlowJournet/Leet-code-solution-1/tree/master/0300-longest-increasing-subsequence) |
 | [0349-intersection-of-two-arrays](https://github.com/FlowJournet/Leet-code-solution-1/tree/master/0349-intersection-of-two-arrays) |
+| [0485-max-consecutive-ones](https://github.com/FlowJournet/Leet-code-solution-1/tree/master/0485-max-consecutive-ones) |
 | [0506-relative-ranks](https://github.com/FlowJournet/Leet-code-solution-1/tree/master/0506-relative-ranks) |
 | [0566-reshape-the-matrix](https://github.com/FlowJournet/Leet-code-solution-1/tree/master/0566-reshape-the-matrix) |
 | [0575-distribute-candies](https://github.com/FlowJournet/Leet-code-solution-1/tree/master/0575-distribute-candies) |
