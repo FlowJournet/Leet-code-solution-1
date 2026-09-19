@@ -100,6 +100,7 @@
 | [0575-distribute-candies](https://github.com/FlowJournet/Leet-code-solution-1/tree/master/0575-distribute-candies) |
 | [0632-smallest-range-covering-elements-from-k-lists](https://github.com/FlowJournet/Leet-code-solution-1/tree/master/0632-smallest-range-covering-elements-from-k-lists) |
 | [0804-unique-morse-code-words](https://github.com/FlowJournet/Leet-code-solution-1/tree/master/0804-unique-morse-code-words) |
+| [0884-uncommon-words-from-two-sentences](https://github.com/FlowJournet/Leet-code-solution-1/tree/master/0884-uncommon-words-from-two-sentences) |
 | [1122-relative-sort-array](https://github.com/FlowJournet/Leet-code-solution-1/tree/master/1122-relative-sort-array) |
 | [1189-maximum-number-of-balloons](https://github.com/FlowJournet/Leet-code-solution-1/tree/master/1189-maximum-number-of-balloons) |
 | [1365-how-many-numbers-are-smaller-than-the-current-number](https://github.com/FlowJournet/Leet-code-solution-1/tree/master/1365-how-many-numbers-are-smaller-than-the-current-number) |
@@ -188,6 +189,7 @@
 | [0804-unique-morse-code-words](https://github.com/FlowJournet/Leet-code-solution-1/tree/master/0804-unique-morse-code-words) |
 | [0806-number-of-lines-to-write-string](https://github.com/FlowJournet/Leet-code-solution-1/tree/master/0806-number-of-lines-to-write-string) |
 | [0844-backspace-string-compare](https://github.com/FlowJournet/Leet-code-solution-1/tree/master/0844-backspace-string-compare) |
+| [0884-uncommon-words-from-two-sentences](https://github.com/FlowJournet/Leet-code-solution-1/tree/master/0884-uncommon-words-from-two-sentences) |
 | [0917-reverse-only-letters](https://github.com/FlowJournet/Leet-code-solution-1/tree/master/0917-reverse-only-letters) |
 | [1108-defanging-an-ip-address](https://github.com/FlowJournet/Leet-code-solution-1/tree/master/1108-defanging-an-ip-address) |
 | [1189-maximum-number-of-balloons](https://github.com/FlowJournet/Leet-code-solution-1/tree/master/1189-maximum-number-of-balloons) |
@@ -204,6 +206,7 @@
 ## Counting
 |  |
 | ------- |
+| [0884-uncommon-words-from-two-sentences](https://github.com/FlowJournet/Leet-code-solution-1/tree/master/0884-uncommon-words-from-two-sentences) |
 | [0945-minimum-increment-to-make-array-unique](https://github.com/FlowJournet/Leet-code-solution-1/tree/master/0945-minimum-increment-to-make-array-unique) |
 | [1189-maximum-number-of-balloons](https://github.com/FlowJournet/Leet-code-solution-1/tree/master/1189-maximum-number-of-balloons) |
 ## Dynamic Programming
