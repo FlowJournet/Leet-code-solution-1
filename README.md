@@ -21,6 +21,7 @@
 | [0260-single-number-iii](https://github.com/FlowJournet/Leet-code-solution-1/tree/master/0260-single-number-iii) |
 | [0268-missing-number](https://github.com/FlowJournet/Leet-code-solution-1/tree/master/0268-missing-number) |
 | [0283-move-zeroes](https://github.com/FlowJournet/Leet-code-solution-1/tree/master/0283-move-zeroes) |
+| [0287-find-the-duplicate-number](https://github.com/FlowJournet/Leet-code-solution-1/tree/master/0287-find-the-duplicate-number) |
 | [0300-longest-increasing-subsequence](https://github.com/FlowJournet/Leet-code-solution-1/tree/master/0300-longest-increasing-subsequence) |
 | [0349-intersection-of-two-arrays](https://github.com/FlowJournet/Leet-code-solution-1/tree/master/0349-intersection-of-two-arrays) |
 | [0485-max-consecutive-ones](https://github.com/FlowJournet/Leet-code-solution-1/tree/master/0485-max-consecutive-ones) |
@@ -118,6 +119,7 @@
 | [0069-sqrtx](https://github.com/FlowJournet/Leet-code-solution-1/tree/master/0069-sqrtx) |
 | [0153-find-minimum-in-rotated-sorted-array](https://github.com/FlowJournet/Leet-code-solution-1/tree/master/0153-find-minimum-in-rotated-sorted-array) |
 | [0268-missing-number](https://github.com/FlowJournet/Leet-code-solution-1/tree/master/0268-missing-number) |
+| [0287-find-the-duplicate-number](https://github.com/FlowJournet/Leet-code-solution-1/tree/master/0287-find-the-duplicate-number) |
 | [0300-longest-increasing-subsequence](https://github.com/FlowJournet/Leet-code-solution-1/tree/master/0300-longest-increasing-subsequence) |
 | [0349-intersection-of-two-arrays](https://github.com/FlowJournet/Leet-code-solution-1/tree/master/0349-intersection-of-two-arrays) |
 | [0367-valid-perfect-square](https://github.com/FlowJournet/Leet-code-solution-1/tree/master/0367-valid-perfect-square) |
@@ -135,6 +137,7 @@
 | [0231-power-of-two](https://github.com/FlowJournet/Leet-code-solution-1/tree/master/0231-power-of-two) |
 | [0260-single-number-iii](https://github.com/FlowJournet/Leet-code-solution-1/tree/master/0260-single-number-iii) |
 | [0268-missing-number](https://github.com/FlowJournet/Leet-code-solution-1/tree/master/0268-missing-number) |
+| [0287-find-the-duplicate-number](https://github.com/FlowJournet/Leet-code-solution-1/tree/master/0287-find-the-duplicate-number) |
 | [0342-power-of-four](https://github.com/FlowJournet/Leet-code-solution-1/tree/master/0342-power-of-four) |
 | [0401-binary-watch](https://github.com/FlowJournet/Leet-code-solution-1/tree/master/0401-binary-watch) |
 | [0405-convert-a-number-to-hexadecimal](https://github.com/FlowJournet/Leet-code-solution-1/tree/master/0405-convert-a-number-to-hexadecimal) |
@@ -166,6 +169,7 @@
 | [0202-happy-number](https://github.com/FlowJournet/Leet-code-solution-1/tree/master/0202-happy-number) |
 | [0234-palindrome-linked-list](https://github.com/FlowJournet/Leet-code-solution-1/tree/master/0234-palindrome-linked-list) |
 | [0283-move-zeroes](https://github.com/FlowJournet/Leet-code-solution-1/tree/master/0283-move-zeroes) |
+| [0287-find-the-duplicate-number](https://github.com/FlowJournet/Leet-code-solution-1/tree/master/0287-find-the-duplicate-number) |
 | [0344-reverse-string](https://github.com/FlowJournet/Leet-code-solution-1/tree/master/0344-reverse-string) |
 | [0349-intersection-of-two-arrays](https://github.com/FlowJournet/Leet-code-solution-1/tree/master/0349-intersection-of-two-arrays) |
 | [0392-is-subsequence](https://github.com/FlowJournet/Leet-code-solution-1/tree/master/0392-is-subsequence) |
@@ -283,6 +287,7 @@
 |  |
 | ------- |
 | [0141-linked-list-cycle](https://github.com/FlowJournet/Leet-code-solution-1/tree/master/0141-linked-list-cycle) |
+| [0287-find-the-duplicate-number](https://github.com/FlowJournet/Leet-code-solution-1/tree/master/0287-find-the-duplicate-number) |
 ## Counting Sort
 |  |
 | ------- |
@@ -427,4 +432,8 @@
 |  |
 | ------- |
 | [0783-minimum-distance-between-bst-nodes](https://github.com/FlowJournet/Leet-code-solution-1/tree/master/0783-minimum-distance-between-bst-nodes) |
+## Pigeonhole Principle
+|  |
+| ------- |
+| [0287-find-the-duplicate-number](https://github.com/FlowJournet/Leet-code-solution-1/tree/master/0287-find-the-duplicate-number) |
 <!---LeetCode Topics End-->
