@@ -17,6 +17,7 @@
 | [0189-rotate-array](https://github.com/FlowJournet/Leet-code-solution-1/tree/master/0189-rotate-array) |
 | [0198-house-robber](https://github.com/FlowJournet/Leet-code-solution-1/tree/master/0198-house-robber) |
 | [0228-summary-ranges](https://github.com/FlowJournet/Leet-code-solution-1/tree/master/0228-summary-ranges) |
+| [0238-product-of-array-except-self](https://github.com/FlowJournet/Leet-code-solution-1/tree/master/0238-product-of-array-except-self) |
 | [0260-single-number-iii](https://github.com/FlowJournet/Leet-code-solution-1/tree/master/0260-single-number-iii) |
 | [0268-missing-number](https://github.com/FlowJournet/Leet-code-solution-1/tree/master/0268-missing-number) |
 | [0283-move-zeroes](https://github.com/FlowJournet/Leet-code-solution-1/tree/master/0283-move-zeroes) |
@@ -88,6 +89,7 @@
 ## Prefix Sum
 |  |
 | ------- |
+| [0238-product-of-array-except-self](https://github.com/FlowJournet/Leet-code-solution-1/tree/master/0238-product-of-array-except-self) |
 | [1000-minimum-cost-to-merge-stones](https://github.com/FlowJournet/Leet-code-solution-1/tree/master/1000-minimum-cost-to-merge-stones) |
 | [1480-running-sum-of-1d-array](https://github.com/FlowJournet/Leet-code-solution-1/tree/master/1480-running-sum-of-1d-array) |
 | [2574-left-and-right-sum-differences](https://github.com/FlowJournet/Leet-code-solution-1/tree/master/2574-left-and-right-sum-differences) |
